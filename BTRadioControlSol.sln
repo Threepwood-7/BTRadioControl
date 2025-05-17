@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTRadioControl", "BTRadioControl\BTRadioControl.csproj", "{56B79410-B2D9-4E0F-8E11-8761438A9F6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTRadioControlWin", "BTRadioControlWin\BTRadioControlWin.csproj", "{981EF20D-7453-4020-93F8-71B898E7BF0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56B79410-B2D9-4E0F-8E11-8761438A9F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B79410-B2D9-4E0F-8E11-8761438A9F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B79410-B2D9-4E0F-8E11-8761438A9F6B}.Debug|x64.ActiveCfg = Debug|x64
+		{56B79410-B2D9-4E0F-8E11-8761438A9F6B}.Debug|x64.Build.0 = Debug|x64
+		{56B79410-B2D9-4E0F-8E11-8761438A9F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B79410-B2D9-4E0F-8E11-8761438A9F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B79410-B2D9-4E0F-8E11-8761438A9F6B}.Release|x64.ActiveCfg = Release|x64
+		{56B79410-B2D9-4E0F-8E11-8761438A9F6B}.Release|x64.Build.0 = Release|x64
+		{981EF20D-7453-4020-93F8-71B898E7BF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981EF20D-7453-4020-93F8-71B898E7BF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981EF20D-7453-4020-93F8-71B898E7BF0B}.Debug|x64.ActiveCfg = Debug|x64
+		{981EF20D-7453-4020-93F8-71B898E7BF0B}.Debug|x64.Build.0 = Debug|x64
+		{981EF20D-7453-4020-93F8-71B898E7BF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981EF20D-7453-4020-93F8-71B898E7BF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{981EF20D-7453-4020-93F8-71B898E7BF0B}.Release|x64.ActiveCfg = Release|x64
+		{981EF20D-7453-4020-93F8-71B898E7BF0B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {862A9EB6-BE72-413D-B819-542B0BF967FD}
+	EndGlobalSection
+EndGlobal
